@@ -1,4 +1,4 @@
-data = 'area.txt'
+data = 'path-to-data'
 
 import pandas as pd
 import open3d as o3d
